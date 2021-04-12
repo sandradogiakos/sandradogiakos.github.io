@@ -1,7 +1,7 @@
 ---
 published: true
 ---
-##Auctions: Where Impulsivity Meets Business
+## Auctions: Where Impulsivity Meets Business
 
 The most recent [Barn Auction](https://barnauctions.com) online auction finished on Thursday last week. 
 I won a few treasures, and lost a few that I really wanted! 
