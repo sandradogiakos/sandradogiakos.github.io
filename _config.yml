@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: Rambles
+name: Thoughts
 
 # Name of the author
-author: Steve Dogiakos
+author: Sandra Dogiakos
 
 # Short bio or description (displayed in the header)
-description: A place for Steve to ramble
+description: A place for Sandra
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars.githubusercontent.com/u/2258234?v=4
@@ -22,16 +22,16 @@ avatar: https://avatars.githubusercontent.com/u/2258234?v=4
 footer-links:
   dribbble:
   email: github@dogiakos.com
-  facebook: dogiakos
+  facebook: sandradogiakos
   flickr:
-  github: snachodog
-  instagram: snachodog
-  linkedin: snachodog
-  pinterest: snachodog
+  github: sandradogiakos
+  instagram: bassetandcorgi
+  linkedin: 
+  pinterest: 
   rss: 
-  twitter: snachodog
+  twitter: 
   stackoverflow: 
-  youtube: # /user/snachodog
+  # youtube:
   googleplus: # anything in your profile username that comes after plus.google.com/
   playconsole:
 
